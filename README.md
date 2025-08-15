@@ -74,3 +74,7 @@ Completing this task will result in a functional web application that can retrie
 - The ability to structure and maintain clean, modular code.
 
 This task forms a foundation for creating more complex applications that depend on live, external data sources.
+
+# Output
+
+<img width="1909" height="1162" alt="Image" src="https://github.com/user-attachments/assets/c495c3e1-ab9c-49ea-a7a3-ab48c447e445" />
